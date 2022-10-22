@@ -9,6 +9,8 @@ projetado para troca de figurinhas do Album da Copa.
 Nesse projeto, abordamos e implantamos o padrão Page Objects, uma 
 prática comum de estruturação e muito usada nos principais projetos de automação,
 independente do seu framework.
+<br/>
+<br/>
 
 ## O projeto consiste em 3 casos de Testes e seus respectivos principáis cenários:
 
@@ -23,7 +25,8 @@ validar a notificação toaster caso os dados não forem preenchidos com sucesso
 Será executado um teste de ponta a ponta onde o usuário pesquisará por Neymar Legend
 no campo de pesquisa e finalizará validando se uma nova aba foi aberta direcionando o usuário
 ao whatsapp do atual dono da figurinha.
-
+<br/>
+<br/>
 
 ## O que precisaremos para realizar os Testes?
 
@@ -56,7 +59,8 @@ e digitarmos o comando: node --version, o resultado esperado é que o CMD inform
 2-No CDM digite o comando: rfbrowser init
 
 ***Feito todas as instalações, estamos prontos para executar os testes.***
-
+<br/>
+<br/>
 
 ## Comandos para realizar os Testes
 
@@ -73,7 +77,6 @@ Com o projeto Aberto no Microsoft Visual Studio, Vá a Terminal > Novo terminal
 ![enter image description here](https://lh3.googleusercontent.com/_xKdd4GY--2E3CmabQnD0NS2qtvz4opqoBjafZEbgpFIZq2oBMc4u-f4U-jOL3E5c5m66eNuhiIkSuq4-3ciozhAfa3K-yLnLANY_QAOKODsif3G4NoHhsKaK-12sDk42Mxi7trL9IV2_0v9B7HNjfI4dxXG6LEo2sz4WFA1nh3UsZ43l0MTB266ifMBz1zACTYVHckQEDD3NGlyp7krgB5ktdNKcE4d3o9792k28p4bKVTS0vDgxpl5pdHE-Us_ETY8TaWku0L05cQ0v5WkXj3mAFu1yNtQG9mo5ZbEG4VCB3spimlAFzBF1uKjxZSiGJDMJOmY38xpXmAv4MZCMsnO0-PzvyyROJPNzJ2Jrbw6XkFFQfccKW2v0S3YXq9jlCqPv8L4BntZfqQGejPKpv55cHXxfjZ5dgOvBC3r43gGHseAiGD1iyvRnunT1e6d_bdkqNAE6GAh0nGMHetyzjBOqnS3iXC9Bu-1rCe3Qjs4fCEfbU4s0srPao2UTWQH5vi5SmAFOBsXxt6dPBFvf85JyySg-bFeNwuluaKKqERtLtIcL_3MShx2HR1aquOBqaKYmPhFPa8xFN66Rify6ksPDdd2d_ZfaXXTZg-jTWX4_1ByWUAiL4K7bshF7oXskQW7g8Eavlw5lqsuJK2K5_0ti66dRp-KzeSuLyOjWEXAnqJ80msw5WXQHWr-i9NDWLV2SVX6Q20K7vPtPz1eWSoYfuF7pWiqrPWHNVya8TlwVAHx36uKF0lfdA-3dBzrszhsHWL3nmfXVZudXnFH1EkTHVnvyEEAlcUKCTNeJ16zkeDJ5-YHb209Jwd6RM_70NmONxjUH8uJijxIrOcueNcD9O3mbKMmrIwLHmjcV0kJM2si0mvgy1UFTFmCPob8sp5kTa1WQ-kOoBnRxt3G4H-Fe3wn5O4w4F-frcJ-JNWN=w569-h56-no?authuser=0)
 <br/>Desta forma apenas os testes da página trade serão executados.
 
-<br/>
 <br/>
 
 
