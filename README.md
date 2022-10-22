@@ -10,7 +10,7 @@ Nesse projeto, abordamos e implantamos o padrão Page Objects, uma
 prática comum de estruturação e muito usada nos principais projetos de automação,
 independente do seu framework.
 
-## O projeto consta com três casos de Testes e seus respectivos principáis cenários:
+## O projeto consiste em 3 casos de Testes e seus respectivos principáis cenários:
 
 **-Slogan:** Acesso a página Trade Sticker
 Validar se o usuário acessa a página Trade Sticker com sucesso
