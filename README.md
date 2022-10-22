@@ -16,10 +16,10 @@ independente do seu framework.
 Validar se o usuário acessa a página Trade Sticker com sucesso
 
 **-Login**: Execução dos Cenários da Page login
-Tais como: Login com sucesso, login com insucesso, Não deve logar com a senha correta,
-Validar a notificação toaster caso os dados não forem preenchidos com sucesso.
+Tais como: Login com sucesso, login com insucesso, não deve logar com a senha correta,
+validar a notificação toaster caso os dados não forem preenchidos com sucesso.
 
-**-Trade:** Negociando uma figurinha do Neymar Legend
+**-Trade:** 
 Será executado um teste de ponta a ponta onde o usuário pesquisará por Neymar Legend
 no campo de pesquisa e finalizará validando se uma nova aba foi aberta direcionando o usuário
 ao whatsapp do atual dono da figurinha.
